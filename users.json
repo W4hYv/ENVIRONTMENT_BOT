@@ -1,0 +1,14 @@
+{
+    "Wahyu": {
+        "password": "B0vv0#1122334455#Mu5t#B0w0",
+        "role": "owner"
+    },
+    "Wahyu1": {
+        "password": "B0vv0#1122334455#Mu5t#B0w0",
+        "role": "user"
+    },
+    "TestingAccount123": {
+        "password": "Password123",
+        "role": "user"
+    }
+}
