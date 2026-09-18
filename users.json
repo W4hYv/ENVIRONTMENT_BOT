@@ -1,13 +1,13 @@
 {
-    "Wahyu": {
-        "password": "B0vv0#1122334455#Mu5t#B0w0",
+    "TestingAccountOwner": {
+        "password": "Password123",
         "role": "owner"
     },
-    "Wahyu1": {
-        "password": "B0vv0#1122334455#Mu5t#B0w0",
+    "TestingAccountUser1": {
+        "password": "Password123",
         "role": "user"
     },
-    "TestingAccount123": {
+    "TestingAccountUser2": {
         "password": "Password123",
         "role": "user"
     }
